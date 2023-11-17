@@ -1,7 +1,7 @@
-# Amir Mohammad Goudarzi
+# Amir Goudarzi
 
 ## 👋 Introduction
-Hello! 👋 I'm Amir Mohammad Goudarzi, an undergraduate student who wants to build a career in research.
+Hello! 👋 I'm Amirmohammad Goudarzi, an undergraduate student who wants to build a career in research.
 
 ## 🚀 About Me
 - 💼 3rd-year Computer Engineering Student
