@@ -18,11 +18,9 @@ I'm currently diving deeper into:
 - Computer Vision
 
 ## 💡 Projects
-Here are some of the projects I'm proud of:
-1. [Project 1 Name](Link to Project 1)
-   - Brief description
-2. [Project 2 Name](Link to Project 2)
-   - Brief description
+Here are some of the projects I have done:
+1. [Style transfer app]((https://github.com/Amir-Goudarzi/style-transfer-app))
+   - Applies the style of an image to the content of another
 
 ## 🤝 Connect with me
 Feel free to connect with me on:
