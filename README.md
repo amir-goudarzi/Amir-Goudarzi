@@ -19,7 +19,7 @@ I'm currently diving deeper into:
 
 ## 💡 Projects
 Here are some of the projects I have done:
-1. [Style transfer app]((https://github.com/Amir-Goudarzi/style-transfer-app))
+1. [Style transfer app](https://github.com/Amir-Goudarzi/style-transfer-app)
    - Applies the style of an image to the content of another
 
 ## 🤝 Connect with me
