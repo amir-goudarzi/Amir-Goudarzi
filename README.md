@@ -4,7 +4,7 @@
 Hello! 👋 I'm Amirmohammad Goudarzi, an undergraduate student who wants to build a career in research.
 
 ## 🚀 About Me
-- 💼 3TH-year Computer Engineering Student
+- 💼 4rd-year Computer Engineering Student
 - 🏫Politecnico di Torino
 
 ## 🔧 Technologies & Tools
